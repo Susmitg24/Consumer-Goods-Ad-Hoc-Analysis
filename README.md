@@ -23,7 +23,7 @@ The company has provided with 10 Ad- Hoc Requests which they want to use in anal
 
 ▪ 𝘑𝘰𝘪𝘯𝘴 to combine data from multiple tables.
 
-# FINDINGS & SOLUTIONS 
+# Findings:
 · Findings - Important metrics such as Gross Profit, Contribution %, Order by Overall Amount Sold, Average Gross Sales, Average Manufacturing Cost, etc.
 
 · Solutions - Increasing production rate by enticing customers with memberships, gift certificates, bundled deals, student discounts, and other special offers.
