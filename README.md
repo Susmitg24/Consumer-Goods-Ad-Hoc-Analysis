@@ -1,4 +1,4 @@
-# Consumer Goods-Ad-Hoc Analysis
+# Consumer Goods Ad-Hoc Analysis
 
 # Problem Statement:
 Atliq Hardware, a top computer hardware manufacturer, struggles with timely, data-driven decision-making. To tackle this, Tony Sharma, head of data analytics, initiated a SQL challenge to find talented junior data analysts.
